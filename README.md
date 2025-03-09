@@ -27,18 +27,15 @@ Check out the live demo of the project here: [Amazon Clone Live Demo](#) *(Repla
 ---
 
 ## **Screenshots**
-![image](https://github.com/user-attachments/assets/ee385ab7-0711-4f4d-b8f7-b9ca3b3ab2fb)
-![image](https://github.com/user-attachments/assets/45597569-eddc-47c8-892a-a4918da4ea03)
-![image](https://github.com/user-attachments/assets/77248fc9-09c1-404c-9093-1f6596fa33ee)
+![Screenshot 2025-03-09 131914](https://github.com/user-attachments/assets/86afd87a-4fd7-4920-93dc-21b38497a91f)
+![Screenshot 2025-03-09 134500](https://github.com/user-attachments/assets/cbc121f3-95bc-4041-99fe-3a7f4bb0fe8d)
+![Screenshot 2025-03-09 134551](https://github.com/user-attachments/assets/1f58a352-77d0-4af1-baec-7a4618b3a13f)
 
 
 
 
 ### Desktop View
 ![Desktop View](#) *(https://github.com/user-attachments/assets/ee385ab7-0711-4f4d-b8f7-b9ca3b3ab2fb)*
-
-### Mobile View
-![Mobile View](#) *(Replace with your screenshot link)*
 
 ---
 
@@ -101,9 +98,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 If you have any questions or feedback, feel free to reach out:
-- **Name**: [Suresh Soni]
-- **Email**: [sonisuresh7357@gmail.com]
-- **GitHub**: [github.com/suresh-tech01]
+- **Name**: Suresh Soni
+- **Email**: sonisuresh7357@gmail.com
+- **GitHub**: https://github.com/suresh-tech01
 
 ---
 
