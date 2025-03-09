@@ -5,7 +5,7 @@ Welcome to the **Amazon Clone** project! This is a front-end web development pro
 ---
 
 ## **Live Demo**
-Check out the live demo of the project here: [Amazon Clone Live Demo](#) *(Replace with your live link)*
+Check out the live demo of the project here: [Amazon Clone Live Demo](#) *(https://suresh-tech01.github.io/Amazon-Project/index.html)*
 
 ---
 
@@ -107,5 +107,3 @@ If you have any questions or feedback, feel free to reach out:
 Enjoy exploring the project! 🚀
 
 ---
-
-Feel free to replace placeholders (e.g., `#`, `your-username`, `Your Name`) with your actual project details. This README provides a professional and organized overview of your project for anyone who visits your repository.
